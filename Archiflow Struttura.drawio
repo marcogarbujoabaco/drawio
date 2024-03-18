@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-18T16:43:25.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="HDD9UfAZhYGKBoncNX9P" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-18T16:58:58.340Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="NIdgzxt94zUmnbH564wi" version="24.0.7" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -97,12 +97,6 @@
         <mxCell id="Gc3_FamApXj_eERZc7SU-26" value="Database ORACLE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="900" y="280" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Gc3_FamApXj_eERZc7SU-27" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="932.5" y="417.5" width="65" height="85" as="geometry" />
-        </mxCell>
-        <mxCell id="Gc3_FamApXj_eERZc7SU-28" value="ARCHIINDEX" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="915" y="382.5" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Gc3_FamApXj_eERZc7SU-29" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.535;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7d933b09d9755ecc-9" target="Gc3_FamApXj_eERZc7SU-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="464" y="330" as="sourcePoint" />
@@ -121,10 +115,50 @@
             <mxPoint x="945" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gc3_FamApXj_eERZc7SU-32" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.485;entryY=0.967;entryDx=0;entryDy=0;exitX=0.49;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="Gc3_FamApXj_eERZc7SU-28" target="Gc3_FamApXj_eERZc7SU-26">
+        <mxCell id="Gc3_FamApXj_eERZc7SU-33" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="932.5" y="590" width="65" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc3_FamApXj_eERZc7SU-34" value="ARCHIINDEX" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="915" y="551" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc3_FamApXj_eERZc7SU-36" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1.038;exitY=0.553;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="Gc3_FamApXj_eERZc7SU-33" target="Gc3_FamApXj_eERZc7SU-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="751" y="228" as="sourcePoint" />
-            <mxPoint x="955" y="270" as="targetPoint" />
+            <mxPoint x="1110" y="400" as="sourcePoint" />
+            <mxPoint x="1160" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1050" y="420" />
+              <mxPoint x="1110" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gc3_FamApXj_eERZc7SU-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flatforlinux/128/41-Macintosh%20HD.png" vertex="1" parent="1">
+          <mxGeometry x="932.5" y="400" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc3_FamApXj_eERZc7SU-38" value="Storage&lt;div&gt;M:\&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="925" y="363" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gc3_FamApXj_eERZc7SU-39" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Gc3_FamApXj_eERZc7SU-34" target="Gc3_FamApXj_eERZc7SU-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="340" as="sourcePoint" />
+            <mxPoint x="570" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gc3_FamApXj_eERZc7SU-40" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.138;exitY=0.588;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Gc3_FamApXj_eERZc7SU-2" target="Gc3_FamApXj_eERZc7SU-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="734" y="458" as="sourcePoint" />
+            <mxPoint x="935" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gc3_FamApXj_eERZc7SU-41" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1.138;exitY=0.588;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gc3_FamApXj_eERZc7SU-1" target="Gc3_FamApXj_eERZc7SU-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="460" as="sourcePoint" />
+            <mxPoint x="870" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gc3_FamApXj_eERZc7SU-42" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.571;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7d933b09d9755ecc-9" target="Gc3_FamApXj_eERZc7SU-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="460" as="sourcePoint" />
+            <mxPoint x="880" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
