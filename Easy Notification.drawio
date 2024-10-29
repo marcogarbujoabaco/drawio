@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
-  <diagram name="Pagina-1" id="MLww3AfrtCvVnw4RkD0x">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3" pages="2">
+  <diagram name="Caricamento" id="MLww3AfrtCvVnw4RkD0x">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -74,6 +74,137 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Kc-SMzKpld4TW1MUplLg-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="Kc-SMzKpld4TW1MUplLg-1" target="Kc-SMzKpld4TW1MUplLg-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="410" as="sourcePoint" />
+            <mxPoint x="440" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_vvbVRJzTrlQrqMltiVg" name="Aggiornamento">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bnSp9DLBVGwfpQrKu2p3-1" value="API GetFiles" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="401" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bnSp9DLBVGwfpQrKu2p3-2" value="Richiesta per ciascun codice fiscale ente mittente la lista dei file caricati" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="594" y="165" width="316" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bnSp9DLBVGwfpQrKu2p3-3" value="ELABORAZIONE&lt;div&gt;FILE ESITI&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="290" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bnSp9DLBVGwfpQrKu2p3-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="bnSp9DLBVGwfpQrKu2p3-1" target="bnSp9DLBVGwfpQrKu2p3-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="571" y="470" as="sourcePoint" />
+            <mxPoint x="621" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bnSp9DLBVGwfpQrKu2p3-6" value="Per ciascun file" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="230" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bnSp9DLBVGwfpQrKu2p3-7" value="Batch&lt;div&gt;Schedulato&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="400" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bnSp9DLBVGwfpQrKu2p3-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="bnSp9DLBVGwfpQrKu2p3-7" target="bnSp9DLBVGwfpQrKu2p3-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="632" y="400" as="sourcePoint" />
+            <mxPoint x="682" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bnSp9DLBVGwfpQrKu2p3-9" value="AGGIORNAMENTO DEL LOTTO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="670" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bnSp9DLBVGwfpQrKu2p3-10" value="AGGIORNAMENTO DEL DOCARCHIVIO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="491" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bnSp9DLBVGwfpQrKu2p3-11" value="- Aggiornamento dello stato d&#39;invio&lt;div&gt;- Inserimento nelle note il dettaglio di eventuali errori o il nome del file processato&lt;/div&gt;&lt;div&gt;- Aggiornamento della colonna idEasyNotification&lt;/div&gt;&lt;div&gt;- dataConferma in base allo stato comunicato&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="848" y="260" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="bnSp9DLBVGwfpQrKu2p3-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="bnSp9DLBVGwfpQrKu2p3-3" target="bnSp9DLBVGwfpQrKu2p3-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="572" y="410" as="sourcePoint" />
+            <mxPoint x="622" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bnSp9DLBVGwfpQrKu2p3-13" value="Aggiornamento dei campi:&lt;div&gt;- IUN&lt;/div&gt;&lt;div&gt;- statoSEND&lt;/div&gt;&lt;div&gt;- dataSEND&lt;/div&gt;&lt;div&gt;- importoSEND&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="670" y="430" width="178" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bnSp9DLBVGwfpQrKu2p3-14" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.008;entryY=0.436;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="bnSp9DLBVGwfpQrKu2p3-9" target="bnSp9DLBVGwfpQrKu2p3-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="708" y="410" as="sourcePoint" />
+            <mxPoint x="758" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bnSp9DLBVGwfpQrKu2p3-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="bnSp9DLBVGwfpQrKu2p3-3" target="bnSp9DLBVGwfpQrKu2p3-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="572" y="410" as="sourcePoint" />
+            <mxPoint x="622" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bnSp9DLBVGwfpQrKu2p3-16" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="bnSp9DLBVGwfpQrKu2p3-10" target="bnSp9DLBVGwfpQrKu2p3-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="737" y="420" as="sourcePoint" />
+            <mxPoint x="787" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bnSp9DLBVGwfpQrKu2p3-17" value="AGGIORNAMENTO&lt;div&gt;APPLICATIVI&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="120" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bnSp9DLBVGwfpQrKu2p3-18" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="bnSp9DLBVGwfpQrKu2p3-17" target="bnSp9DLBVGwfpQrKu2p3-3">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="360" y="430" as="sourcePoint" />
+            <mxPoint x="460" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bnSp9DLBVGwfpQrKu2p3-19" value="Aggiornamento dell&#39;importo di spedizione&lt;div&gt;&lt;br&gt;&lt;div&gt;Ritorno dell&#39;importo aggiornato delle singole scadenze collegate al documento&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="95" y="150" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bnSp9DLBVGwfpQrKu2p3-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="bnSp9DLBVGwfpQrKu2p3-17" target="bnSp9DLBVGwfpQrKu2p3-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="410" as="sourcePoint" />
+            <mxPoint x="440" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bnSp9DLBVGwfpQrKu2p3-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="bnSp9DLBVGwfpQrKu2p3-1" target="bnSp9DLBVGwfpQrKu2p3-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="400" as="sourcePoint" />
+            <mxPoint x="500" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bnSp9DLBVGwfpQrKu2p3-22" value="AGGIORNAMENTO DEL DOCARCHIVIOSCADENZA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="380" y="540" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bnSp9DLBVGwfpQrKu2p3-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.437;entryY=0.05;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="bnSp9DLBVGwfpQrKu2p3-3" target="bnSp9DLBVGwfpQrKu2p3-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="410" as="sourcePoint" />
+            <mxPoint x="440" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bnSp9DLBVGwfpQrKu2p3-24" value="Aggiornamento dell&#39;importo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="673" y="550" width="178" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bnSp9DLBVGwfpQrKu2p3-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="bnSp9DLBVGwfpQrKu2p3-22" target="bnSp9DLBVGwfpQrKu2p3-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="543" y="405" as="sourcePoint" />
+            <mxPoint x="593" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bnSp9DLBVGwfpQrKu2p3-26" value="AGGIORNAMENTO CENTRALE PAGOPA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="280" y="630" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bnSp9DLBVGwfpQrKu2p3-27" value="Aggiornamento:&lt;div&gt;-importo&lt;/div&gt;&lt;div&gt;-IUN&lt;/div&gt;&lt;div&gt;- statoSEND&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="520" y="620" width="178" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bnSp9DLBVGwfpQrKu2p3-28" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="bnSp9DLBVGwfpQrKu2p3-26" target="bnSp9DLBVGwfpQrKu2p3-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="423" y="495" as="sourcePoint" />
+            <mxPoint x="473" y="445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bnSp9DLBVGwfpQrKu2p3-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.079;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="bnSp9DLBVGwfpQrKu2p3-3" target="bnSp9DLBVGwfpQrKu2p3-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="410" as="sourcePoint" />
             <mxPoint x="440" y="360" as="targetPoint" />
