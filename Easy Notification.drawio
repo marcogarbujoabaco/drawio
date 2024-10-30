@@ -480,7 +480,7 @@
         <mxCell id="gIEZVWFITQFZYa6INdbP-4" value="REQUEST_ACCEPTED" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="270" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gIEZVWFITQFZYa6INdbP-5" value="LegalFact&lt;div&gt;SENDER_ACK&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;Attestazione di presa in carico della notifica&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gIEZVWFITQFZYa6INdbP-5" value="LegalFact&lt;div&gt;SENDER_ACK&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;Attestazione di presa in carico della notifica&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="520" y="255" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gIEZVWFITQFZYa6INdbP-6" value="Invio Digitale?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -492,7 +492,7 @@
         <mxCell id="gIEZVWFITQFZYa6INdbP-8" value="SEND_DIGITAL_FEEDBACK&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Indica la ricezione di un esito ad un invio digitale&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="490" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="gIEZVWFITQFZYa6INdbP-9" value="LegalFact&lt;div&gt;&lt;div&gt;PEC_RECEIPT&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;File in formato EML che attesta la consegna della PEC&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gIEZVWFITQFZYa6INdbP-9" value="LegalFact&lt;div&gt;&lt;div&gt;PEC_RECEIPT&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;File in formato EML che attesta la consegna della PEC&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="280" y="490" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gIEZVWFITQFZYa6INdbP-10" value="Consegnata?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -501,11 +501,32 @@
         <mxCell id="gIEZVWFITQFZYa6INdbP-11" value="DIGITAL_SUCCESS_WORKFLOW&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Indica la ricezione di un esito ad un invio digitale&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="750" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="gIEZVWFITQFZYa6INdbP-12" value="LegalFact&lt;div&gt;&lt;div&gt;DIGITAL_DELIVERY&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Attestazione generata alla conclusione dei tentativi di invio sui domicili digitali disponibili, nel caso si siano completati con un evento di consegna oppure mancata consegna&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gIEZVWFITQFZYa6INdbP-12" value="LegalFact&lt;div&gt;&lt;div&gt;DIGITAL_DELIVERY&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Attestazione generata alla conclusione dei tentativi di invio sui domicili digitali disponibili, nel caso si siano completati con un evento di consegna oppure mancata consegna&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="150" y="880" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="gIEZVWFITQFZYa6INdbP-13" value="DIGITAL_FAILURE_WORKFLOW&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Indica il completamento con fallimento il workflow di invio digitale&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="625" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gIEZVWFITQFZYa6INdbP-14" value="SEND_ANALOG_DOMICILE&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Invio cartaceo dell’avviso di notifica&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="395" width="200" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="gIEZVWFITQFZYa6INdbP-15" value="SEND_ANALOG_FEEDBACK&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ricezione esito dell&#39;invio cartaceo&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="490" width="200" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="gIEZVWFITQFZYa6INdbP-16" value="Consegnata?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="615" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gIEZVWFITQFZYa6INdbP-17" value="ANALOG_SUCCESS_WORKFLOW&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Completato con successo il workflow di invio cartaceo.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="750" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gIEZVWFITQFZYa6INdbP-18" value="ANALOG_FAILURE_WORKFLOW&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Completato con fallimento il workflow di invio cartaceo.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="657.5" y="750" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gIEZVWFITQFZYa6INdbP-19" value="COMPLETELY_UNREACHABLE&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Il destinatario è risultato irraggiungibile.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="750" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gIEZVWFITQFZYa6INdbP-20" value="LegalFact&lt;div&gt;ANALOG_FAILURE_DELIVERY&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Attestazione di Deposito di Avviso di Avvenuta Ricezione&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="900" y="920" width="200" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
