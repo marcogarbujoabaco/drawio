@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3" pages="5">
   <diagram name="Caricamento" id="MLww3AfrtCvVnw4RkD0x">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -459,6 +459,53 @@
             <mxPoint x="390" y="710" as="sourcePoint" />
             <mxPoint x="440" y="660" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="VrW0IyCe5Z23j9W5Q5DO" name="Spedizione">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gIEZVWFITQFZYa6INdbP-1" value="SENDER_ACK_CREATION_REQUEST&lt;div&gt;Creazione della richiesta di spedizione&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gIEZVWFITQFZYa6INdbP-2" value="Verifica della&lt;br&gt;richiesta" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="297.5" y="140" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gIEZVWFITQFZYa6INdbP-3" value="REQUEST_REFUSED&lt;div&gt;&lt;br&gt;&lt;div&gt;Indica che la richiesta di notifica&amp;nbsp;&lt;/div&gt;&lt;div&gt;è stata rifiutata per un fallimento in fase di validazione&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="140" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gIEZVWFITQFZYa6INdbP-4" value="REQUEST_ACCEPTED" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gIEZVWFITQFZYa6INdbP-5" value="LegalFact&lt;div&gt;SENDER_ACK&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;Attestazione di presa in carico della notifica&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="255" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gIEZVWFITQFZYa6INdbP-6" value="Invio Digitale?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="297.5" y="380" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gIEZVWFITQFZYa6INdbP-7" value="SEND_DIGITAL_DOMICILE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="395" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gIEZVWFITQFZYa6INdbP-8" value="SEND_DIGITAL_FEEDBACK&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Indica la ricezione di un esito ad un invio digitale&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="490" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gIEZVWFITQFZYa6INdbP-9" value="LegalFact&lt;div&gt;&lt;div&gt;PEC_RECEIPT&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;File in formato EML che attesta la consegna della PEC&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="490" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gIEZVWFITQFZYa6INdbP-10" value="Consegnata?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="77.5" y="620" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gIEZVWFITQFZYa6INdbP-11" value="DIGITAL_SUCCESS_WORKFLOW&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Indica la ricezione di un esito ad un invio digitale&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="750" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gIEZVWFITQFZYa6INdbP-12" value="LegalFact&lt;div&gt;&lt;div&gt;DIGITAL_DELIVERY&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Attestazione generata alla conclusione dei tentativi di invio sui domicili digitali disponibili, nel caso si siano completati con un evento di consegna oppure mancata consegna&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="880" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gIEZVWFITQFZYa6INdbP-13" value="DIGITAL_FAILURE_WORKFLOW&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Indica il completamento con fallimento il workflow di invio digitale&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="625" width="200" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
