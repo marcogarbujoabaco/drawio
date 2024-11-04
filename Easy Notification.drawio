@@ -519,7 +519,7 @@
         <mxCell id="gIEZVWFITQFZYa6INdbP-18" value="ANALOG_FAILURE_WORKFLOW&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Completato con fallimento il workflow di invio cartaceo.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="623" y="1020" width="196" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="gIEZVWFITQFZYa6INdbP-19" value="COMPLETELY_UNREACHABLE&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Il destinatario è risultato irraggiungibile.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="gIEZVWFITQFZYa6INdbP-19" value="COMPLETELY_UNREACHABLE&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Il destinatario è risultato irraggiungibile.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="850" y="1020" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gIEZVWFITQFZYa6INdbP-20" value="LegalFact&lt;div&gt;ANALOG_FAILURE_DELIVERY&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Attestazione di Deposito di Avviso di Avvenuta Ricezione&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
