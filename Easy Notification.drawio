@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.3" pages="5">
   <diagram name="Caricamento" id="MLww3AfrtCvVnw4RkD0x">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -501,7 +501,7 @@
         <mxCell id="gIEZVWFITQFZYa6INdbP-11" value="DIGITAL_SUCCESS_WORKFLOW&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Indica la ricezione di un esito ad un invio digitale&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="258" y="799" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="gIEZVWFITQFZYa6INdbP-13" value="DIGITAL_FAILURE_WORKFLOW&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Indica il completamento con fallimento il workflow di invio digitale&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="gIEZVWFITQFZYa6INdbP-13" value="DIGITAL_FAILURE_WORKFLOW&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Indica il completamento con fallimento il workflow di invio digitale&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="46" y="943" width="187.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gIEZVWFITQFZYa6INdbP-14" value="SEND_ANALOG_DOMICILE&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Invio cartaceo dell’avviso di notifica&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -537,7 +537,7 @@
         <mxCell id="gIEZVWFITQFZYa6INdbP-24" value="LegalFact&lt;div&gt;&lt;div&gt;PEC_RECEIPT&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;File in formato EML che attesta la accettazione della PEC&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="268" y="553.5" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="gIEZVWFITQFZYa6INdbP-25" value="SEND_ANALOG_PROGRESS&lt;div&gt;SEND_SIMPLE_REGISTERED_LETTER_PROGRESS&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Indica un evento successivo relativo all&#39;invio cartaceo&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="gIEZVWFITQFZYa6INdbP-25" value="SEND_ANALOG_PROGRESS&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Indica un evento successivo relativo all&#39;invio cartaceo&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="565" y="578" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gIEZVWFITQFZYa6INdbP-26" value="LegalFact&lt;div&gt;ANALOG_DELIVERY&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;A seconda dei casi sono riportate le scansioni di:&lt;/div&gt;&lt;div&gt;- Ricevuta di consegna con deliveryDetailCode RECRN001B e documentType AR&lt;/div&gt;&lt;div&gt;- Scansione Plico con deliveryDetailCode RECRN002B, RECRN004B, RECRN002E, RECRN005B e documentType Plico&lt;/div&gt;&lt;div&gt;- Avviso di ricevimento con deliveryDetailCode RECRN003B e documentType AR&lt;/div&gt;&lt;div&gt;- Indagine con deliveryDetailCode RECRN002E e documentType Indagine&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -714,14 +714,11 @@
             <mxPoint x="550" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gIEZVWFITQFZYa6INdbP-65" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gIEZVWFITQFZYa6INdbP-28" target="gIEZVWFITQFZYa6INdbP-25" edge="1">
+        <mxCell id="gIEZVWFITQFZYa6INdbP-65" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gIEZVWFITQFZYa6INdbP-28" target="YfnLgJxJzmeXsbYGmnb4-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="1230" as="sourcePoint" />
             <mxPoint x="530" y="620" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="500" y="1148" />
-              <mxPoint x="500" y="608" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gIEZVWFITQFZYa6INdbP-66" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="gIEZVWFITQFZYa6INdbP-13" target="gIEZVWFITQFZYa6INdbP-28" edge="1">
@@ -776,22 +773,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JFWibFDfVEgQlM7B326U-1" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gIEZVWFITQFZYa6INdbP-19" target="gIEZVWFITQFZYa6INdbP-20">
+        <mxCell id="JFWibFDfVEgQlM7B326U-1" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gIEZVWFITQFZYa6INdbP-19" target="gIEZVWFITQFZYa6INdbP-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="990" y="1120" as="sourcePoint" />
             <mxPoint x="1080" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JFWibFDfVEgQlM7B326U-2" value="Restituzione dell&#39;esito della spedizione" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="JFWibFDfVEgQlM7B326U-2" value="Restituzione dell&#39;esito della spedizione" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="943" y="640" width="277" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="JFWibFDfVEgQlM7B326U-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="gIEZVWFITQFZYa6INdbP-25" target="JFWibFDfVEgQlM7B326U-2">
+        <mxCell id="JFWibFDfVEgQlM7B326U-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="gIEZVWFITQFZYa6INdbP-25" target="JFWibFDfVEgQlM7B326U-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="700" y="810" as="sourcePoint" />
             <mxPoint x="750" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JFWibFDfVEgQlM7B326U-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gIEZVWFITQFZYa6INdbP-16" target="gIEZVWFITQFZYa6INdbP-19">
+        <mxCell id="JFWibFDfVEgQlM7B326U-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="gIEZVWFITQFZYa6INdbP-16" target="gIEZVWFITQFZYa6INdbP-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="830" y="880" as="sourcePoint" />
             <mxPoint x="980" y="920" as="targetPoint" />
@@ -800,8 +797,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JFWibFDfVEgQlM7B326U-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+        <mxCell id="JFWibFDfVEgQlM7B326U-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="990" y="760" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="YfnLgJxJzmeXsbYGmnb4-1" value="&lt;div&gt;SIMPLE_REGISTERED_LETTER_PROGRESS&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Indica un evento successivo relativo all&#39;invio cartaceo&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="39" y="1241" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YfnLgJxJzmeXsbYGmnb4-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YfnLgJxJzmeXsbYGmnb4-1" target="gIEZVWFITQFZYa6INdbP-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="1100" as="sourcePoint" />
+            <mxPoint x="750" y="1050" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="1270" />
+              <mxPoint x="490" y="750" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
