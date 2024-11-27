@@ -779,15 +779,6 @@
             <mxPoint x="1080" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JFWibFDfVEgQlM7B326U-2" value="Restituzione dell&#39;esito della spedizione" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="943" y="640" width="277" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="JFWibFDfVEgQlM7B326U-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="gIEZVWFITQFZYa6INdbP-25" target="JFWibFDfVEgQlM7B326U-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="810" as="sourcePoint" />
-            <mxPoint x="750" y="760" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JFWibFDfVEgQlM7B326U-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="gIEZVWFITQFZYa6INdbP-16" target="gIEZVWFITQFZYa6INdbP-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="830" y="880" as="sourcePoint" />
