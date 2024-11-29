@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.1" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.2" pages="5">
   <diagram name="Caricamento" id="MLww3AfrtCvVnw4RkD0x">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -803,10 +803,10 @@
             <mxPoint x="750" y="1250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YfnLgJxJzmeXsbYGmnb4-5" value="&lt;div&gt;Lista degli esiti restituiti:&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Consegnato&lt;br&gt;&lt;div&gt;- Mancata consegna&lt;/div&gt;&lt;div&gt;- Irreperibilità Assoluta&lt;/div&gt;&lt;div&gt;-Consegnato presso Punti di Giacenza&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Mancata consegna presso Punti di Giacenza&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Compiuta giacenza&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YfnLgJxJzmeXsbYGmnb4-5" value="&lt;div&gt;Lista degli esiti restituiti:&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Consegnato&lt;br&gt;&lt;div&gt;- Mancata consegna&lt;/div&gt;&lt;div&gt;- Irreperibilità Assoluta&lt;/div&gt;&lt;div&gt;-Consegnato presso Punti di Giacenza&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Mancata consegna presso Punti di Giacenza&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Compiuta giacenza&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="54.5" y="1555" width="249" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="YfnLgJxJzmeXsbYGmnb4-8" value="Lista degli esiti restituiti:&lt;br&gt;&lt;div&gt;-&amp;nbsp;Consegnato&lt;/div&gt;&lt;div&gt;- Non Consegnato&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YfnLgJxJzmeXsbYGmnb4-8" value="Lista degli esiti restituiti:&lt;br&gt;&lt;div&gt;-&amp;nbsp;Consegnato&lt;/div&gt;&lt;div&gt;- Non Consegnato&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="330" y="1424" width="246.5" height="72" as="geometry" />
         </mxCell>
         <mxCell id="YfnLgJxJzmeXsbYGmnb4-9" value="ITALIA?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -835,6 +835,15 @@
         </mxCell>
         <mxCell id="YfnLgJxJzmeXsbYGmnb4-14" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="243.5" y="1424" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qyv1zjrAl9RhPvOjgLFV-1" value="1€" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="429.5" y="194" width="46" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="Qyv1zjrAl9RhPvOjgLFV-2" value="x,xx €" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1060" width="46" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="Qyv1zjrAl9RhPvOjgLFV-3" value="x,xx €" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="540" y="490" width="46" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
