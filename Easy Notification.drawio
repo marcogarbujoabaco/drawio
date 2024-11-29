@@ -803,10 +803,10 @@
             <mxPoint x="750" y="1250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YfnLgJxJzmeXsbYGmnb4-5" value="&lt;div&gt;Lista degli esiti restituiti:&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Consegnato&lt;br&gt;&lt;div&gt;- Mancata consegna&lt;/div&gt;&lt;div&gt;- Irreperibilità Assoluta&lt;/div&gt;&lt;div&gt;-Consegnato presso Punti di Giacenza&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Mancata consegna presso Punti di Giacenza&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Compiuta giacenza&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="YfnLgJxJzmeXsbYGmnb4-5" value="&lt;div&gt;Lista degli esiti restituiti:&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Consegnato&lt;br&gt;&lt;div&gt;- Mancata consegna&lt;/div&gt;&lt;div&gt;- Irreperibilità Assoluta&lt;/div&gt;&lt;div&gt;-Consegnato presso Punti di Giacenza&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Mancata consegna presso Punti di Giacenza&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Compiuta giacenza&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="54.5" y="1555" width="249" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="YfnLgJxJzmeXsbYGmnb4-8" value="Lista degli esiti restituiti:&lt;br&gt;&lt;div&gt;-&amp;nbsp;Consegnato&lt;/div&gt;&lt;div&gt;- Non Consegnato&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="YfnLgJxJzmeXsbYGmnb4-8" value="Lista degli esiti restituiti:&lt;br&gt;&lt;div&gt;-&amp;nbsp;Consegnato&lt;/div&gt;&lt;div&gt;- Non Consegnato&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="330" y="1424" width="246.5" height="72" as="geometry" />
         </mxCell>
         <mxCell id="YfnLgJxJzmeXsbYGmnb4-9" value="ITALIA?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
