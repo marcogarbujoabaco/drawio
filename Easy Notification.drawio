@@ -7,20 +7,17 @@
         <mxCell id="X-Ri4wnaT7ZO359sHbx0-1" value="GENERAZIONE DOCUMENTI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="210" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X-Ri4wnaT7ZO359sHbx0-2" value="Scelta dell&#39;ente Mittente" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
-          <mxGeometry x="380" y="65" width="210" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="X-Ri4wnaT7ZO359sHbx0-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="X-Ri4wnaT7ZO359sHbx0-1" target="X-Ri4wnaT7ZO359sHbx0-2" edge="1">
+        <mxCell id="X-Ri4wnaT7ZO359sHbx0-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="X-Ri4wnaT7ZO359sHbx0-1" target="ynzznZIsENnz1z7JdzbA-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="410" as="sourcePoint" />
-            <mxPoint x="440" y="360" as="targetPoint" />
+            <mxPoint x="380" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X-Ri4wnaT7ZO359sHbx0-4" value="&lt;div&gt;IMPORTAZIONE FILEXML&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="210" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X-Ri4wnaT7ZO359sHbx0-5" value="Valorizzazione dei campi:&lt;br&gt;- flagSEND&lt;br&gt;&lt;div&gt;- codiceFiscaleEnteMittente&lt;div&gt;- codiceEnteGES&lt;/div&gt;&lt;div&gt;- costoNotificaSEND&lt;/div&gt;&lt;div&gt;- tipoNotificaSEND&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="380" y="140" width="210" height="100" as="geometry" />
+        <mxCell id="X-Ri4wnaT7ZO359sHbx0-5" value="Arricchimento delle informazioni:&lt;br&gt;- tassonomia SEND" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="380" y="160" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X-Ri4wnaT7ZO359sHbx0-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="X-Ri4wnaT7ZO359sHbx0-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -78,6 +75,9 @@
             <mxPoint x="390" y="410" as="sourcePoint" />
             <mxPoint x="440" y="360" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ynzznZIsENnz1z7JdzbA-1" value="Valorizzazione dei campi:&lt;br&gt;- flagSEND&lt;br&gt;&lt;div&gt;- codiceFiscaleEnteMittente&lt;div&gt;- codiceEnteGES&lt;/div&gt;&lt;div&gt;- costoNotificaSEND&lt;/div&gt;&lt;div&gt;- tipoNotificaSEND&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="380" y="30" width="210" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
