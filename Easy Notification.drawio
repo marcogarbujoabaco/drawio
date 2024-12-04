@@ -19,8 +19,8 @@
         <mxCell id="X-Ri4wnaT7ZO359sHbx0-4" value="&lt;div&gt;IMPORTAZIONE FILEXML&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="210" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X-Ri4wnaT7ZO359sHbx0-5" value="Valorizzazione dei campi:&lt;br&gt;- codiceFiscaleEnteMittente&lt;div&gt;- codiceEnteGES&lt;/div&gt;&lt;div&gt;-tipoCostoNotifica&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="380" y="160" width="210" height="60" as="geometry" />
+        <mxCell id="X-Ri4wnaT7ZO359sHbx0-5" value="Valorizzazione dei campi:&lt;br&gt;- flagSEND&lt;br&gt;&lt;div&gt;- codiceFiscaleEnteMittente&lt;div&gt;- codiceEnteGES&lt;/div&gt;&lt;div&gt;- costoNotificaSEND&lt;/div&gt;&lt;div&gt;- tipoNotificaSEND&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="380" y="140" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="X-Ri4wnaT7ZO359sHbx0-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="X-Ri4wnaT7ZO359sHbx0-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -31,8 +31,8 @@
         <mxCell id="X-Ri4wnaT7ZO359sHbx0-7" value="CREAZIONE DEI LOTTI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="210" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X-Ri4wnaT7ZO359sHbx0-8" value="&lt;div&gt;Scelta della modalità di spedizione postale:&lt;/div&gt;&lt;div&gt;- Raccomandata &quot;AR_REGISTERED LETTER&quot;&lt;/div&gt;&lt;div&gt;- Modello 890 &quot;REGITERED_LETTER_890&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Raggruppamento per codiceFiscaleEnteMittente" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="380" y="242.5" width="270" height="115" as="geometry" />
+        <mxCell id="X-Ri4wnaT7ZO359sHbx0-8" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Raggruppamento per&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;codiceFiscaleEnteMittente&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="380" y="270" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X-Ri4wnaT7ZO359sHbx0-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="X-Ri4wnaT7ZO359sHbx0-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
