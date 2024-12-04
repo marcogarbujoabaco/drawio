@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.2" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.3" pages="5">
   <diagram name="Caricamento" id="MLww3AfrtCvVnw4RkD0x">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="X-Ri4wnaT7ZO359sHbx0-4" value="&lt;div&gt;IMPORTAZIONE FILEXML&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="210" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X-Ri4wnaT7ZO359sHbx0-5" value="Valorizzazione dei campi:&lt;br&gt;- codiceFiscaleEnteMittente&lt;div&gt;- codiceTassonomia&lt;/div&gt;&lt;div&gt;-tipoCostoNotifica&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+        <mxCell id="X-Ri4wnaT7ZO359sHbx0-5" value="Valorizzazione dei campi:&lt;br&gt;- codiceFiscaleEnteMittente&lt;div&gt;- codiceEnteGES&lt;/div&gt;&lt;div&gt;-tipoCostoNotifica&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="380" y="160" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X-Ri4wnaT7ZO359sHbx0-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="X-Ri4wnaT7ZO359sHbx0-5" edge="1">
