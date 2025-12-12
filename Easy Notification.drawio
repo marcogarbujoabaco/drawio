@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.3" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7" pages="5">
   <diagram name="Caricamento" id="MLww3AfrtCvVnw4RkD0x">
     <mxGraphModel dx="1428" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -553,7 +553,7 @@
         <mxCell id="gIEZVWFITQFZYa6INdbP-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SEND_DIGITAL_DOMICILE" vertex="1">
           <mxGeometry height="50" width="160" x="60" y="469" as="geometry" />
         </mxCell>
-        <mxCell id="gIEZVWFITQFZYa6INdbP-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SEND_DIGITAL_FEEDBACK&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Indica la ricezione di un esito ad un invio digitale&lt;/div&gt;" vertex="1">
+        <mxCell id="gIEZVWFITQFZYa6INdbP-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SEND_DIGITAL_FEEDBACK&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Indica la ricezione di un esito ad un invio digitale PEC/SERCQ&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="160" x="60" y="684" as="geometry" />
         </mxCell>
         <mxCell id="gIEZVWFITQFZYa6INdbP-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="LegalFact&lt;div&gt;&lt;div&gt;PEC_RECEIPT&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;File in formato EML che attesta la consegna della PEC&lt;/div&gt;&lt;/div&gt;" vertex="1">
@@ -562,7 +562,7 @@
         <mxCell id="gIEZVWFITQFZYa6INdbP-10" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Consegnata?" vertex="1">
           <mxGeometry height="80" width="125" x="77.5" y="794" as="geometry" />
         </mxCell>
-        <mxCell id="gIEZVWFITQFZYa6INdbP-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="DIGITAL_SUCCESS_WORKFLOW&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Indica la ricezione di un esito ad un invio digitale&lt;/div&gt;" vertex="1">
+        <mxCell id="gIEZVWFITQFZYa6INdbP-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="DIGITAL_SUCCESS_WORKFLOW&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Indica la ricezione di un esito ad un invio digitale PEC/SERCQ&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="210" x="258" y="799" as="geometry" />
         </mxCell>
         <mxCell id="gIEZVWFITQFZYa6INdbP-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="DIGITAL_FAILURE_WORKFLOW&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Indica il completamento con fallimento il workflow di invio digitale&lt;/div&gt;" vertex="1">
@@ -1069,7 +1069,7 @@
         <mxCell id="HEaSYdLE_NQQe5DNvwVK-9" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="NO" vertex="1">
           <mxGeometry height="30" width="60" x="862.5" y="1180" as="geometry" />
         </mxCell>
-        <mxCell id="HEaSYdLE_NQQe5DNvwVK-10" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Ricerca&amp;nbsp;&lt;div&gt;PEC?&lt;/div&gt;" vertex="1">
+        <mxCell id="HEaSYdLE_NQQe5DNvwVK-10" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Ricerca Ind. Digitale&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;?&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="76.5" x="101.75" y="1012" as="geometry" />
         </mxCell>
         <mxCell id="HEaSYdLE_NQQe5DNvwVK-11" edge="1" parent="1" source="gIEZVWFITQFZYa6INdbP-13" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="HEaSYdLE_NQQe5DNvwVK-10" value="">
