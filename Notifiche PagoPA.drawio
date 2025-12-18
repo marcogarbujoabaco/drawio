@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Pagina-1" id="Y9PG2vHihLQfv8GQRBbV">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="U3xQkHrOHAr7AFVkNrsv-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=light-dark(#000000,#46A4EC);" value="PARTNER&lt;div&gt;TECONOLOGICI&lt;/div&gt;&lt;div&gt;PAGOPA&lt;/div&gt;" vertex="1">
+          <mxGeometry height="410" width="150" x="40" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="U3xQkHrOHAr7AFVkNrsv-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="EASYBRIDGE" vertex="1">
+          <mxGeometry height="60" width="120" x="55" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="U3xQkHrOHAr7AFVkNrsv-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="GOVPAY" vertex="1">
+          <mxGeometry height="60" width="120" x="55" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="U3xQkHrOHAr7AFVkNrsv-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="GESTIONE&lt;div&gt;ESITI&lt;/div&gt;" vertex="1">
+          <mxGeometry height="410" width="150" x="300" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="U3xQkHrOHAr7AFVkNrsv-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="APPLICATIVI&lt;div&gt;ABACO&lt;/div&gt;" vertex="1">
+          <mxGeometry height="320" width="150" x="600" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="U3xQkHrOHAr7AFVkNrsv-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="APPLICATIVI&lt;div&gt;ESTERNI&lt;/div&gt;" vertex="1">
+          <mxGeometry height="380" width="150" x="600" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="U3xQkHrOHAr7AFVkNrsv-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ICP&lt;div&gt;OSAP&lt;/div&gt;&lt;div&gt;TARI&lt;/div&gt;&lt;div&gt;CRC 2.0&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="620" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U3xQkHrOHAr7AFVkNrsv-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Notifica Mail" vertex="1">
+          <mxGeometry height="60" width="120" x="620" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="U3xQkHrOHAr7AFVkNrsv-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Centrale Multi&amp;nbsp;&lt;div&gt;Sevizio&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="620" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="U3xQkHrOHAr7AFVkNrsv-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="JPPA&lt;div&gt;MAGGIOLI&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="615" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="U3xQkHrOHAr7AFVkNrsv-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="OESIS" vertex="1">
+          <mxGeometry height="60" width="120" x="615" y="555" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
