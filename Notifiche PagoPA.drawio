@@ -5,16 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="U3xQkHrOHAr7AFVkNrsv-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=light-dark(default, #46a4ec);fillColor=light-dark(#1BA1E2,#A9C4EB);fontStyle=1;fontColor=#ffffff;strokeColor=#006EAF;" value="PARTNER&lt;div&gt;TECONOLOGICI&lt;/div&gt;&lt;div&gt;PAGOPA&lt;/div&gt;" vertex="1">
-          <mxGeometry height="410" width="150" x="40" y="90" as="geometry" />
+          <mxGeometry height="250" width="150" x="40" y="150" as="geometry" />
         </mxCell>
         <mxCell id="U3xQkHrOHAr7AFVkNrsv-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=light-dark(#0050EF,#7EA6E0);fontColor=#ffffff;strokeColor=#001DBC;" value="EASYBRIDGE" vertex="1">
-          <mxGeometry height="60" width="120" x="55" y="200" as="geometry" />
+          <mxGeometry height="60" width="120" x="55" y="210" as="geometry" />
         </mxCell>
         <mxCell id="U3xQkHrOHAr7AFVkNrsv-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=light-dark(#0050EF,#7EA6E0);fontColor=#ffffff;strokeColor=#001DBC;" value="GOVPAY" vertex="1">
           <mxGeometry height="60" width="120" x="55" y="300" as="geometry" />
         </mxCell>
         <mxCell id="U3xQkHrOHAr7AFVkNrsv-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#60A917,#97D077);fontColor=#ffffff;strokeColor=#2D7600;fontStyle=1" value="GESTIONE&lt;div&gt;ESITI&lt;/div&gt;" vertex="1">
-          <mxGeometry height="410" width="150" x="300" y="90" as="geometry" />
+          <mxGeometry height="250" width="150" x="300" y="150" as="geometry" />
         </mxCell>
         <mxCell id="U3xQkHrOHAr7AFVkNrsv-13" edge="1" parent="1" source="U3xQkHrOHAr7AFVkNrsv-1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=light-dark(#FFFFFF,#A9C4EB);" target="U3xQkHrOHAr7AFVkNrsv-5" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -23,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U3xQkHrOHAr7AFVkNrsv-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Notifica Esito Pagamento" vertex="1">
-          <mxGeometry height="30" width="60" x="210" y="240" as="geometry" />
+          <mxGeometry height="30" width="60" x="210" y="220" as="geometry" />
         </mxCell>
         <mxCell id="U3xQkHrOHAr7AFVkNrsv-15" connectable="0" parent="1" style="group;fillColor=default;container=0;" value="" vertex="1">
           <mxGeometry height="320" width="150" x="570" y="40" as="geometry" />
@@ -31,21 +31,11 @@
         <mxCell id="U3xQkHrOHAr7AFVkNrsv-17" edge="1" parent="1" source="U3xQkHrOHAr7AFVkNrsv-5" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=light-dark(#FFFFFF,#97D077);" target="U3xQkHrOHAr7AFVkNrsv-6" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="510" y="295" />
+              <mxPoint x="510" y="275" />
               <mxPoint x="510" y="134" />
             </Array>
             <mxPoint x="230" y="290" as="sourcePoint" />
             <mxPoint x="340" y="290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="U3xQkHrOHAr7AFVkNrsv-18" edge="1" parent="1" source="U3xQkHrOHAr7AFVkNrsv-5" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=light-dark(#FFFFFF,#97D077);" target="U3xQkHrOHAr7AFVkNrsv-7" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="510" y="295" />
-              <mxPoint x="510" y="598" />
-            </Array>
-            <mxPoint x="220" y="290" as="sourcePoint" />
-            <mxPoint x="330" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U3xQkHrOHAr7AFVkNrsv-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=light-dark(#FFFFFF,#CDA2BE);fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#EA6B66);" value="INVIO EMAIL&lt;div&gt;NOTIFICA&lt;/div&gt;" vertex="1">
@@ -86,6 +76,10 @@
         </mxCell>
         <mxCell id="U3xQkHrOHAr7AFVkNrsv-28" edge="1" parent="1" source="U3xQkHrOHAr7AFVkNrsv-5" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=light-dark(#FFFFFF,#97D077);exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="U3xQkHrOHAr7AFVkNrsv-21" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="275" />
+              <mxPoint x="510" y="295" />
+            </Array>
             <mxPoint x="470" y="250" as="sourcePoint" />
             <mxPoint x="320" y="290" as="targetPoint" />
           </mxGeometry>
@@ -93,11 +87,21 @@
         <mxCell id="U3xQkHrOHAr7AFVkNrsv-29" edge="1" parent="1" source="U3xQkHrOHAr7AFVkNrsv-5" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=light-dark(#FFFFFF,#97D077);" target="U3xQkHrOHAr7AFVkNrsv-22" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="510" y="295" />
+              <mxPoint x="510" y="275" />
               <mxPoint x="510" y="410" />
             </Array>
             <mxPoint x="210" y="290" as="sourcePoint" />
             <mxPoint x="320" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U3xQkHrOHAr7AFVkNrsv-18" edge="1" parent="1" source="U3xQkHrOHAr7AFVkNrsv-5" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=light-dark(#FFFFFF,#97D077);" target="U3xQkHrOHAr7AFVkNrsv-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="275" />
+              <mxPoint x="510" y="598" />
+            </Array>
+            <mxPoint x="220" y="290" as="sourcePoint" />
+            <mxPoint x="330" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
