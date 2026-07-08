@@ -25,7 +25,7 @@
             <mxPoint x="440" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mIy9R9Ax0QHG9JgrtZgv-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="SFTP&lt;div&gt;FLUSSO RENDICONTAZIONE&lt;/div&gt;&lt;div&gt;FLUSSO IMAMGINI&lt;/div&gt;" vertex="1">
+        <mxCell id="mIy9R9Ax0QHG9JgrtZgv-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="SFTP&lt;div&gt;FLUSSO RENDICONTAZIONE&lt;/div&gt;&lt;div&gt;FLUSSO IMMAGINI&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="200" x="280" y="175" as="geometry" />
         </mxCell>
         <mxCell id="mIy9R9Ax0QHG9JgrtZgv-7" edge="1" parent="1" source="mIy9R9Ax0QHG9JgrtZgv-6" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" target="mIy9R9Ax0QHG9JgrtZgv-3" value="">
