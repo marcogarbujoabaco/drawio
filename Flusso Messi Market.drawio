@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net">
-  <diagram name="Pagina-1" id="D_Gl5x2q0HrpjFUn73LA">
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="Principale" id="D_Gl5x2q0HrpjFUn73LA">
     <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -54,6 +54,52 @@
             <mxPoint x="390" y="400" as="sourcePoint" />
             <mxPoint x="240" y="300" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3Jr-HpYKbgixsaTx5TOZ" name="Pagina-2">
+    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MjXzog7q6vlOkhaspgpu-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Importazione File Indice" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MjXzog7q6vlOkhaspgpu-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Importazione File Rendiconto Messi" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MjXzog7q6vlOkhaspgpu-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;div&gt;Cerca&lt;/div&gt;IdDocSpedizione" vertex="1">
+          <mxGeometry height="100" width="130" x="265" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="MjXzog7q6vlOkhaspgpu-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ERRORE&lt;div&gt;SCARTO DEL FILE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="196" as="geometry" />
+        </mxCell>
+        <mxCell id="MjXzog7q6vlOkhaspgpu-5" edge="1" parent="1" source="MjXzog7q6vlOkhaspgpu-3" style="endArrow=classic;html=1;rounded=0;entryX=0.983;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="MjXzog7q6vlOkhaspgpu-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="400" as="sourcePoint" />
+            <mxPoint x="440" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MjXzog7q6vlOkhaspgpu-6" connectable="0" parent="MjXzog7q6vlOkhaspgpu-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="NO" vertex="1">
+          <mxGeometry relative="1" x="-0.0453" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MjXzog7q6vlOkhaspgpu-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Creazione&lt;div&gt;Pacco&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="MjXzog7q6vlOkhaspgpu-11" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Esito&amp;nbsp;&lt;div&gt;Finale?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="130" x="265" y="413" as="geometry" />
+        </mxCell>
+        <mxCell id="MjXzog7q6vlOkhaspgpu-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Crea Esito" vertex="1">
+          <mxGeometry height="60" width="120" x="275" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="MjXzog7q6vlOkhaspgpu-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Crea EsitoImmagine&lt;div&gt;per esportazione&lt;/div&gt;&lt;div&gt;associato al&lt;/div&gt;&lt;div&gt;Pacco&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="275" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="MjXzog7q6vlOkhaspgpu-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Scarta Esito" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="423" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
